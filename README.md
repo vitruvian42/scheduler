@@ -19,3 +19,10 @@ Bootstrap Grid - For responsive design
 Material icon - For better visual asthetics
 Webpack 4 and plugins - For creating an optimized production built and fast and easy to use development mode
 
+
+To run the project on your local machine :
+1) Clone the repository to a local folder - git clone https://github.com/vitruvian42/scheduler.git
+2) run the following command to install dependencies : npm install
+3) To run the dev script use the following command : npm run dev
+  this will open the project on http://localhost:8080/#/ if port 8080 is not used by any other application
+4) For production build run : npm run build
