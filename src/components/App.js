@@ -22,6 +22,7 @@ export default class App extends React.Component {
             <Switch>
                 <Route exact path='/' component={Scheduler}/>
                 <Route exact path='/:color'  component={Scheduler} />
+                <Route exact path='/dist/:color'  component={Scheduler} />
                 
             </Switch>
         </main>

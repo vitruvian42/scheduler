@@ -26,3 +26,37 @@ To run the project on your local machine :
 3) To run the dev script use the following command : npm run dev
   this will open the project on http://localhost:8080/#/ if port 8080 is not used by any other application
 4) For production build run : npm run build
+
+
+
+Research for seo in react
+
+To test on local for seo
+
+https://www.aymen-loukil.com/en/blog-en/how-to-test-localhost-website-with-google-seo-tools/
+
+1. Host using ngrock
+http://16b350b7.ngrok.io/dist/
+
+Check current seo rankings
+https://sitechecker.pro/seo-report/http://16b350b7.ngrok.io/dist/
+
+
+
+Alternatives to ssr for set optimization
+
+https://hackernoon.com/leaner-alternatives-to-server-side-rendered-ssr-react-c5492a6cb212
+
+Headless chrome service
+
+https://medium.com/dev-channel/solving-seo-with-headless-chrome-for-your-client-side-framework-288e66fdd2b7
+detect the user-agent and if it’s a bot then queue the request to a pool of Headless Chrome instances that will load the SPA like any user browser would, run it and return the HTML
+
+
+
+
+
+
+Server side rendering for seo
+
+https://medium.freecodecamp.org/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e

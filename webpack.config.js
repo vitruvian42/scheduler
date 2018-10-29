@@ -14,7 +14,7 @@ module.exports = {
         // `chunkFilename` provides a template for naming code-split bundles (optional)
         chunkFilename: '[name].bundle.js',
         // `path` is the folder where Webpack will place your bundles
-        path: path.resolve('dist'),
+        path: path.resolve('dist')
     },
     module: {
         rules: [
